@@ -10,7 +10,7 @@ body,h1,h2,h3,p,div,ul,ol,li,dl,dd,dt,table,form,blockquote,pre,address,input,te
 }
 
 body {
-  background-color: transparent;
+  background-color: black;
 }
 
 #hamlite {
@@ -49,7 +49,7 @@ body {
 .x_char {
   position: absolute;
   border-width: 0px;
-  border-color: transparent;
+  border-color: black;
   font-family:'ＭＳ ゴシック', 'HiraKakuProN-W3';
   font-size:23px;
   text-align: center;
@@ -81,7 +81,7 @@ body {
   border-style: solid;
   border-width: 0px;
   border-color: black;
-  background-color: transparent;
+  background-color: black;
 }
 
 #commentArea {
@@ -91,7 +91,7 @@ body {
   border-style: solid;
   border-width: 0px;
   border-color: black;
-  background-color: transparent;
+  background-color: black;
   font-family:'ＭＳ ゴシック', 'HiraKakuProN-W3';
   font-size:22px;
 }
@@ -289,8 +289,8 @@ body {
 #dot_mark {
   top:  0px;
   left: 0px;
-  border-color: transparent;
-  background-color:transparent;
+  border-color: black;
+  background-color:black;
 }
 
 #operation {
